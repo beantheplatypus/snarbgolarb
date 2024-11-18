@@ -1,0 +1,23 @@
+@charset ="utf-8";
+body{
+	background-color: #1E181C;
+	color: #FFFFFF;
+	font-family: courier new;
+	font-size: 16px;
+	
+	border-style: dashed;
+	border-color: #8B9DD3;
+	border-width: 3px;
+	border-radius: 20px;
+}
+
+#NULL {
+	font-family: wingdings;
+}
+#XOHE {
+	color:#CC6CE7;
+}
+#yum {
+  float: left;
+}
+
